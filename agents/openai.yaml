@@ -1,0 +1,7 @@
+interface:
+  display_name: "SEO Blog Strategy — Ahrefs and MicroConf"
+  short_description: "Audit blogs and plan posts for SEO and AI search"
+  default_prompt: "Use $seo-blog-strategy to audit my existing blog or develop an evidence-based structure for new posts."
+
+policy:
+  allow_implicit_invocation: false
